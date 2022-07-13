@@ -1,5 +1,5 @@
 # VUA-IIS_Projekt
- Interoperabilnost informacijskih sustava</br></br>
+ <b>Interoperabilnost informacijskih sustava</b></br>
    <ul>
     <li>XSD and RNG Validation</li>
     <li>REST Api with using security keys</li>
@@ -9,6 +9,4 @@
 
 
 ![IIS](https://user-images.githubusercontent.com/61901937/178829559-f3bebe5b-617d-4a66-90fd-96df1e323efa.JPG)
-
-
 https://rapidapi.com/api-sports/api/api-football-beta/
