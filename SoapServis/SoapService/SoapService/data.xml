@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trophies xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AllTrophies>
+    <Trophy>
+      <League>Sudamericano U20</League>
+      <Country>South-America</Country>
+      <Season>Peru 2011</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Ligue 1</League>
+      <Country>France</Country>
+      <Season>2021/2022</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Trophée des Champions</League>
+      <Country>France</Country>
+      <Season>2021/2022</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa America</League>
+      <Country>South-America</Country>
+      <Season>2021 Brazil</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Trophée des Champions</League>
+      <Country>France</Country>
+      <Season>2020/2021</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de France</League>
+      <Country>France</Country>
+      <Season>2020/2021</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Ligue 1</League>
+      <Country>France</Country>
+      <Season>2020/2021</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Trophée des Champions</League>
+      <Country>France</Country>
+      <Season>2019/2020</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Ligue 1</League>
+      <Country>France</Country>
+      <Season>2019/2020</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>UEFA Champions League</League>
+      <Country>Europe</Country>
+      <Season>2019/2020</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de la Ligue</League>
+      <Country>France</Country>
+      <Season>2019/2020</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de France</League>
+      <Country>France</Country>
+      <Season>2019/2020</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Ligue 1</League>
+      <Country>France</Country>
+      <Season>2018/2019</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Trophée des Champions</League>
+      <Country>France</Country>
+      <Season>2018/2019</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de France</League>
+      <Country>France</Country>
+      <Season>2018/2019</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de France</League>
+      <Country>France</Country>
+      <Season>2017/2018</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Coupe de la Ligue</League>
+      <Country>France</Country>
+      <Season>2017/2018</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Ligue 1</League>
+      <Country>France</Country>
+      <Season>2017/2018</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Super Cup</League>
+      <Country>Spain</Country>
+      <Season>2016/2017</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>La Liga</League>
+      <Country>Spain</Country>
+      <Season>2016/2017</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa del Rey</League>
+      <Country>Spain</Country>
+      <Season>2016/2017</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Olympics</League>
+      <Country>World</Country>
+      <Season>2016 Rio de Janeiro</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Supercopa de Catalunya</League>
+      <Country>Spain</Country>
+      <Season>2016</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Trofeo Joan Gamper</League>
+      <Country>World</Country>
+      <Season>2016</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Super Cup</League>
+      <Country>Spain</Country>
+      <Season>2015/2016</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>UEFA Super Cup</League>
+      <Country>Europe</Country>
+      <Season>2015/2016</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa del Rey</League>
+      <Country>Spain</Country>
+      <Season>2015/2016</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>La Liga</League>
+      <Country>Spain</Country>
+      <Season>2015/2016</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>FIFA Club World Cup</League>
+      <Country>World</Country>
+      <Season>2015 Japan</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>UEFA Champions League</League>
+      <Country>Europe</Country>
+      <Season>2014/2015</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>La Liga</League>
+      <Country>Spain</Country>
+      <Season>2014/2015</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa del Rey</League>
+      <Country>Spain</Country>
+      <Season>2014/2015</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa Catalunya</League>
+      <Country>Spain</Country>
+      <Season>2013/2014</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Super Cup</League>
+      <Country>Spain</Country>
+      <Season>2013/2014</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa del Rey</League>
+      <Country>Spain</Country>
+      <Season>2013/2014</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>La Liga</League>
+      <Country>Spain</Country>
+      <Season>2013/2014</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Confederations Cup</League>
+      <Country>World</Country>
+      <Season>2013 Brazil</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Paulista A1</League>
+      <Country>Brazil</Country>
+      <Season>2013</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>CONMEBOL Recopa</League>
+      <Country>South-America</Country>
+      <Season>2012/2013</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Olympics</League>
+      <Country>World</Country>
+      <Season>2012 London</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Paulista A1</League>
+      <Country>Brazil</Country>
+      <Season>2012</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>FIFA Club World Cup</League>
+      <Country>World</Country>
+      <Season>2011 Japan</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+    <Trophy>
+      <League>Paulista A1</League>
+      <Country>Brazil</Country>
+      <Season>2011</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>CONMEBOL Libertadores</League>
+      <Country>South-America</Country>
+      <Season>2011</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Paulista A1</League>
+      <Country>Brazil</Country>
+      <Season>2010</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Copa do Brasil</League>
+      <Country>Brazil</Country>
+      <Season>2010</Season>
+      <Place>Winner</Place>
+    </Trophy>
+    <Trophy>
+      <League>Paulista A1</League>
+      <Country>Brazil</Country>
+      <Season>2009</Season>
+      <Place>2nd Place</Place>
+    </Trophy>
+  </AllTrophies>
+</Trophies>

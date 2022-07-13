@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema xmlns:i="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/RestServis.Models" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Trophy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="League" type="xs:string" />
+        <xs:element name="Country" type="xs:string" />
+        <xs:element name="Season" type="xs:unsignedShort" />
+        <xs:element name="Place" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

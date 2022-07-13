@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<element name="Trophy" xmlns="http://relaxng.org/ns/structure/1.0"
+         ns="http://schemas.datacontract.org/2004/07/RestServis.Models">
+  <element name="League">
+    <text/>
+  </element>
+  <element name="Country">
+    <text/>
+  </element>
+  <element name="Season">
+    <text/>
+  </element>
+  <element name="Place">
+    <text/>
+  </element>
+</element>

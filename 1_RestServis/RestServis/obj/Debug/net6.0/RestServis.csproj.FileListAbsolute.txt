@@ -1,0 +1,87 @@
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\appsettings.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.exe
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.deps.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.runtimeconfig.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.dll
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\ref\RestServis.dll
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.pdb
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.AssemblyReference.cache
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfoInputs.cache
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfo.cs
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.CoreCompileInputs.cache
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\scopedcss\bundle\RestServis.styles.css
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.dll
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\ref\RestServis.dll
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.pdb
+C:\Users\lecturerd12\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.genruntimeconfig.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\appsettings.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.exe
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.deps.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.runtimeconfig.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.dll
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\bin\Debug\net6.0\RestServis.pdb
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.AssemblyReference.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfoInputs.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfo.cs
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.CoreCompileInputs.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\scopedcss\bundle\RestServis.styles.css
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.dll
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\refint\RestServis.dll
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.pdb
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\RestServis.genruntimeconfig.cache
+C:\Users\lecturerC5\Desktop\RestServis\RestServis\obj\Debug\net6.0\ref\RestServis.dll
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\appsettings.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.exe
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.deps.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.runtimeconfig.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.dll
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.pdb
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfoInputs.cache
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfo.cs
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\scopedcss\bundle\RestServis.styles.css
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.dll
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\refint\RestServis.dll
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.pdb
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.genruntimeconfig.cache
+C:\Users\Next Design\Desktop\IIS - Projekt\1_RestServis\RestServis\obj\Debug\net6.0\ref\RestServis.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\appsettings.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.exe
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.deps.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.runtimeconfig.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\RestServis.pdb
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.AssemblyReference.cache
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfoInputs.cache
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.AssemblyInfo.cs
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.CoreCompileInputs.cache
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\scopedcss\bundle\RestServis.styles.css
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\refint\RestServis.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.pdb
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.genruntimeconfig.cache
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\ref\RestServis.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\Commons.Xml.Relaxng.dll
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\obj\Debug\net6.0\RestServis.csproj.CopyComplete
+C:\Users\Next Design\Desktop\IIS_Projekt\1_RestServis\RestServis\bin\Debug\net6.0\Newtonsoft.Json.dll
